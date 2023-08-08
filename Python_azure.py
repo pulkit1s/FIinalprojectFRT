@@ -23,8 +23,8 @@ connection_string = "DefaultEndpointsProtocol=https;AccountName=storageaccountim
 container_name = "imagescv"  # Replace with your container name
 blob_service_client = BlobServiceClient.from_connection_string(connection_string)
 
-folder = 'D:/azure_cv/cv_demo_images/'
-out_folder = 'D:/azure_cv/cv_demo_images_output/'
+folder = 'C:\Users\hp\Desktop\Azure_Image_Computer_vission-main\cv_demo_images\'
+out_folder = 'C:\Users\hp\Desktop\Azure_Image_Computer_vission-main\cv_demo_images_output\'
 
 files = os.listdir(folder)
 font = ImageFont.truetype('arial.ttf', 16)
