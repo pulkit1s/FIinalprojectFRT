@@ -89,14 +89,7 @@ To set up and run this project, follow these steps:
 ---
 
 # Screenshots
-![Output1](2017-rolls-royce-sweptail-1200x800-(1)-1.webp)
- ![output 2](2467-1.webp)
-  ![output 3](508430-city-community-1.jpg)
-   ![output 4](dog_bike_car-1.jpg)
-    ![Output 5](photo-1659333428224-13205b605736-1.jpg )
-     ![output 6](world-famous-cars-10-1.jpg)
-      ![Performance metrics](<Screenshot 2023-07-10 113748.png>)
-       ![confidence rate](<Screenshot 2023-07-10 110259.png>)# Screenshots
+![Output1](2017-rolls-royce-sweptail-1200x800-(1)-1.webp) ![output 2](2467-1.webp) ![output 3](508430-city-community-1.jpg)![output 4](dog_bike_car-1.jpg)![Output 5](photo-1659333428224-13205b605736-1.jpg )![output 6](world-famous-cars-10-1.jpg)![Performance metrics](<Screenshot 2023-07-10 113748.png>) ![confidence rate](<Screenshot 2023-07-10 110259.png>)
 
 
 
